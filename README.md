@@ -1,5 +1,5 @@
 # book-store-reactApp# Book Store App
-
+## watch project video https://www.linkedin.com/posts/ahmed-hani-elgazar_reactjs-redux-webdevelopment-activity-7237878583388450816-izSu?utm_source=share&utm_medium=member_desktop
 ## Overview
 
 The **Book Store App** is a simple, intuitive app built with **React.js** and **Redux Toolkit**. It allows users to manage a collection of books, including the ability to add, view, edit, and delete books. The app also supports image handling, enabling users to upload and preview book covers using the `FileReader` API.
